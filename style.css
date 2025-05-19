@@ -182,6 +182,11 @@ section {
   width: 400px;
   margin: auto 0;
 }
+.deepak-profile{
+  width: 375px;      /* same height as width */
+  border-radius: 50%; /* makes it a circle */
+  object-fit: cover;  
+}
 
 .section__text {
   align-self: center;
